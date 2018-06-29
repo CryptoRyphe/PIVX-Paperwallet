@@ -1,2 +1,2 @@
-# PIVX-Paperwallet
-PIVX Paper Wallet Generator with BIP38 Encryption/Decryption
+# zXflea-Paperwallet
+zXflea Paper Wallet Generator with BIP38 Encryption/Decryption
